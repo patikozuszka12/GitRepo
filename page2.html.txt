@@ -1,6 +1,11 @@
 <html>
 <body>
+
 Treść strony 2
 Linia dodana przez Amelia Woźna
+Treść strony 2 patrycja 
+treść strony 2 maks
+
+
 </body>
 </html>
