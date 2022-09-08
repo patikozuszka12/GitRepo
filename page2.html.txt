@@ -1,6 +1,5 @@
 <html>
 <body>
-Treść strony 2 patrysz
-
+Linia dodana przez Maks/Kasprzyk/Tuptajacyjez
 </body>
 </html>
