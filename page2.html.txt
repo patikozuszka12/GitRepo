@@ -1,5 +1,6 @@
 <html>
 <body>
 Treść strony 2
+Linia dodana przez Amelia Woźna
 </body>
 </html>
